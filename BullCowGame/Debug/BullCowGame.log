@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\code\visual 2015\unrealcourse\section_02\bullcowgame\main.cpp(136): warning C4129: '/': unrecognized character escape sequence
+  FBullCowGame.cpp
+  Generating Code...
+  BullCowGame.vcxproj -> D:\Code\Visual 2015\UnrealCourse\Section_02\Debug\BullCowGame.exe
+  BullCowGame.vcxproj -> D:\Code\Visual 2015\UnrealCourse\Section_02\Debug\BullCowGame.pdb (Full PDB)
